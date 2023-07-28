@@ -1,5 +1,5 @@
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Chiranjibkoch/YukkiV"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KYAKRU/Heroku2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 # Arch Bots <img src="https://img.shields.io/github/v/release/sakil000/YukkiV2?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
