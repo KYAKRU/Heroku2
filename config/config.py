@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001923845903"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","ICONIC MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","STEFANIE ROBOT")
 
 # Your User ID.
 OWNER_ID = list(
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/VIP-SAKIL/ICONIC"
+    "https://github.com/KYAKRU/Heroku2"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -65,10 +65,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/IKD_KOREAN_DRAMA"
+    "SUPPORT_CHANNEL", "https://t.me/ArchBots"
 )  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/IKD_KOREAN_DRAMA"
+    "SUPPORT_GROUP", "https://t.me/Arch_Supports"
 )  # Example:- https://t.me/YukkiSupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -168,26 +168,26 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/1060691a3c584305b83b0.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/35e445aae6dcc1e128669.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph//file/23c7e4437488952508e31.jpg",
+    https://te.legra.ph/file/a2803b75784fd896a13e8.jpg"",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/1b4839fc0f465500a39eb.jpg",
+    "https://te.legra.ph/file/e959629e3ef13555c215a.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph//file/37932ab524ebe06bd9009.jpg",
+    "https://te.legra.ph/file/4ab929413aeac08da1a86.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph//file/23c7e4437488952508e31.jpg",
+    "https://te.legra.ph/file/4ab929413aeac08da1a86.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
