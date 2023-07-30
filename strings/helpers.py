@@ -9,32 +9,11 @@
 #
 
 HELP_1 = """✅**<u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅ:</u>**
-**ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Tᴀɢ Aʟʟ:**
+**ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ ᴄʜᴀᴛ ʙᴏᴛ:**
 **Only for admins**
 
-❍ /tagall or @all '(reply to message or add another message) To mention all members in your group, without exception.
-❍ /cancel to stop ongoing tagg
-sᴘᴇᴄɪᴀʟ ᴛᴀɢɢᴇʀ
-🌺 ᴛʏᴘᴇ ᴀɴʏ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏʀʀᴇsᴘᴏɴᴅɪɴɢ ᴄᴏᴍᴍᴀɴᴅ✨
-
-❍ /allvoice - ᴍᴇɴᴛɪᴏɴ ᴏʀ ᴛᴀɢ ᴜsᴇʀs ᴡɪᴛʜ ᴠᴏɪᴄᴇ ᴍᴀʏʙᴇ sʟᴏᴡ
-
-❍ /hrtag - ᴛᴀɢ ɪɴ ʜᴀʀᴀʏᴀᴀɴᴠɪ
-
-❍ /htag  - ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛᴀɢs ɪɴ ʜɪɴᴅɪ
- 
-❍ /engtag - ᴘʀᴏᴅᴜᴄᴇ sᴘᴇᴄɪᴀʟ ᴇɴɢʟɪsʜ ᴛᴀɢs.
-
-❍ /pnbtag  - ᴄʀᴀғᴛ sᴘᴇᴇᴅʏ sᴘᴇᴄɪᴀʟ ᴘᴀɴᴊᴀʙɪ ᴛᴀɢs.
-
-❍ /assamtag  - ɢᴇɴᴇʀᴀᴛᴇ ǫᴜɪᴄᴋ sᴘᴇᴄɪᴀʟ ᴇɴɢʟɪsʜ ᴛᴀɢs.
-
-❍ /ttag - tamil ᴛᴀɢɢᴇʀ
-
-❍ /stop - ᴄᴇᴀsᴇ ᴛᴀɢɢɪɴɢ.
-
-❍ /cancel 
-ᴅɪsᴄᴏᴠᴇʀ ᴛʜᴇ ᴇxᴄᴇᴘᴛɪᴏɴᴀʟ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇs ᴏғ ᴛʜᴇsᴇ sᴘᴇᴄɪᴀʟ ᴛᴀɢɢᴇʀs ᴀɴᴅ ᴄᴏᴍᴘᴏsᴇ ᴇxᴛʀᴀᴏʀᴅɪɴᴀʀʏ ᴍᴇssᴀɢᴇs! 🚀.
+❍ /chatbot on  To on the chat bot in your group
+❍ /chatbot off  To off the chat bot in your group
 
 **c** stands for channel play.
 
